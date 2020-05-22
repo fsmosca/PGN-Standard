@@ -1,6 +1,11 @@
 # PGN-Standard
 Portable Game Notation Specification and Implementation Guide
 
+### References
+* Supplement  
+  https://www.enpassant.dk/chess/palview/enhancedpgn.htm
+* https://www.chessprogramming.org/Portable_Game_Notation
+
 
 ### Credits
 * Steven Edwards
