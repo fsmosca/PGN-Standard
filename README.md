@@ -5,10 +5,10 @@ Portable Game Notation Specification and Implementation Guide
 * To update the standard for unclear specifications
 
 ### References
-* Supplement  
-  https://www.enpassant.dk/chess/palview/enhancedpgn.htm
-* https://www.chessprogramming.org/Portable_Game_Notation
-* https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/help.html
+* [PGN Supplement](https://www.enpassant.dk/chess/palview/enhancedpgn.htm)  
+* [Chess Programming](https://www.chessprogramming.org/Portable_Game_Notation)
+* [PGN-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/help.html)
+* [Python-Chess](https://github.com/niklasf/python-chess)
 
 
 ### Credits
