@@ -1147,22 +1147,17 @@ There are two tags defined for assistance with describing games that did not
 start from the usual initial array.
 
 
-9.7.1: Tag: SetUp
+9.7.1: Cancelled
 
-This tag takes an integer that denotes the "set-up" status of the game. A
-value of "0" indicates that the game has started from the usual initial array.
-A value of "1" indicates that the game started from a set-up position; this
-position is given in the "FEN" tag pair. This tag must appear for a game
-starting with a set-up position. If it appears with a tag value of "1", a FEN
-tag pair must also appear.
+Previously a Tag: SetUp
 
 
 9.7.2: Tag: FEN
 
 This tag uses a string that gives the Forsyth-Edwards Notation for the starting
 position used in the game. FEN is described in a later section of this
-document. If a SetUp tag appears with a tag value of "1", the FEN tag pair is
-also required.
+document. A FEN tag pair is required if the game's standard starting position
+is not used.
 
 
 9.8: Game conclusion
