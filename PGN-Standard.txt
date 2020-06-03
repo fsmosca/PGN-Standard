@@ -2,11 +2,15 @@ Standard: Portable Game Notation Specification and Implementation Guide
 
 Version: 1.0
 
-Revised: 2020-05-26
+Revised: 2020-06-03
 
-Authors: Interested readers of the Internet newsgroup rec.games.chess
+Authors:
+1: Interested readers of the Internet newsgroup rec.games.chess,
+2: Interested readers in http://talkchess.com/forum3/index.php
 
-Coordinator: Steven J. Edwards (send comments to sje@world.std.com)
+Coordinators:
+1. Previous: Steven J. Edwards
+2. Current: ?
 
 
 0: Preface
