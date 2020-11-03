@@ -1217,6 +1217,12 @@ This tag takes a single integer that gives the number of ply (moves) in the
 game.
 
 
+9.9.4: Tag: Variant
+
+A tag to identify the name of the game other than chess. It can be atomic,
+crazyhouse and others.
+
+
 10: Numeric Annotation Glyphs
 
 NAG zero is used for a null annotation; it is provided for the convenience of
