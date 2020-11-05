@@ -1239,9 +1239,11 @@ This tag is used to identify the pieces that are involved in the game. It is
 composed of a single piece letter id and its movements in betza notation.
 Example: 
 [VariantMen "A:BN"]
-A: It is the piece id for Archbishop
-B: This piece can move like a Bishop
-N: This piece can move like a Knight
+Tag value: "A:BN"
+A - a piece id for Archbishop
+: - a separator for piece id and its movements
+B - this piece can move like a Bishop
+N - this piece can move like a Knight
 
 
 10: Numeric Annotation Glyphs
