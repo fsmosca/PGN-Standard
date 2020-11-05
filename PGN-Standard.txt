@@ -1217,10 +1217,31 @@ This tag takes a single integer that gives the number of ply (moves) in the
 game.
 
 
-9.9.4: Tag: Variant
+9.10: Variants 
 
-A tag to identify the name of the game other than chess. It can be atomic,
+These are the tags that are related to a variant game.
+
+
+9.10.1: Tag: Variant
+
+This tag is used to identify the name of the variant. It can be atomic,
 crazyhouse and others.
+
+
+9.10.2: Tag: VariantFamily
+
+This tag is used to identify the parent of the variant.
+
+
+9.10.3: Tag: VariantMen
+
+This tag is used to identify the pieces that are involved in the game. It is
+composed of a single piece letter id and its movements in betza notation.
+Example: 
+[VariantMen "A:BN"]
+A: It is the piece id for Archbishop
+B: This piece can move like a Bishop
+N: This piece can move like a Knight
 
 
 10: Numeric Annotation Glyphs
