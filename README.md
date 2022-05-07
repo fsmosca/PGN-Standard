@@ -1,8 +1,9 @@
 # PGN-Standard
-Portable Game Notation Specification and Implementation Guide
+Portable Game Notation Specification and Implementation Guide. This is the [link](https://github.com/fsmosca/PGN-Standard/blob/master/PGN-Standard.txt) to the updated documentation or see the `PGN-Standard.txt` file in this repository.
 
 ### Goal
-* To update the standard for unclear specifications
+* To update the standard for unclear specifications.
+* Improve the standard.
 
 ### References
 * [PGN Supplement](https://www.enpassant.dk/chess/palview/enhancedpgn.htm)  
