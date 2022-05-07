@@ -7,6 +7,7 @@ Portable Game Notation Specification and Implementation Guide. This is the [link
 
 ### References
 * [PGN Supplement](https://www.enpassant.dk/chess/palview/enhancedpgn.htm)  
+Contains the latest proposals and were already applied such as `[%clk 1:05:23]`, `[%emt 0:05:42]` and others.
 * [Chess Programming](https://www.chessprogramming.org/Portable_Game_Notation)
 * [PGN-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/help.html)
 * [Python-Chess](https://github.com/niklasf/python-chess)
