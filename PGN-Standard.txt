@@ -2,7 +2,7 @@ Standard: Portable Game Notation Specification and Implementation Guide
 
 Version: 1.0
 
-Revised: 2020-06-03
+Revised: 2023-03-22
 
 Authors:
 1: Interested readers of the Internet newsgroup rec.games.chess,
@@ -2125,11 +2125,11 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 And after the move 1. e4:
 
-rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1
 
 And then after 1. ... c5:
 
-rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2
+rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 
 And then after 2. Nf3:
 
