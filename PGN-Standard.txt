@@ -1842,7 +1842,7 @@ information because of their traditional use with the reporting of
 international sporting events. Due to changes in geography and linguistic
 custom, some of the following may be incorrect or outdated. Corrections and
 extensions should be sent via e-mail to the PGN coordinator whose address
-listed near the start of this document.
+listed near the start of this document. Codes in parenthesis are old codes.
 
 AFG: Afghanistan
 ALB: Albania
