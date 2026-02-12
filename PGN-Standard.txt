@@ -1,8 +1,8 @@
 Standard: Portable Game Notation Specification and Implementation Guide
 
-Version: 1.0
+Version: 1.0.1
 
-Revised: 2023-03-22
+Revised: 2026-02-12
 
 Authors:
 1: Interested readers of the Internet newsgroup rec.games.chess,
@@ -1871,7 +1871,9 @@ BRS: Brazil
 BRU: Brunei
 BSW: Botswana
 CAN: Canada
+CGO: Republic of the Congo
 CHI: Chile
+COD: Democratic Republic of the Congo
 COL: Columbia
 CRA: Costa Rica
 CRO: Croatia
@@ -1995,7 +1997,6 @@ YEM: Yemen
 YUG: Yugoslavia
 ZAM: Zambia
 ZIM: Zimbabwe
-ZRE: Zaire
 
 
 16: Additional chess data standards
