@@ -1,8 +1,8 @@
 Standard: Portable Game Notation Specification and Implementation Guide
 
-Version: 1.0
+Version: 1.1
 
-Revised: 2023-03-22
+Revised: 2026-04-18
 
 Authors:
 1: Interested readers of the Internet newsgroup rec.games.chess,
