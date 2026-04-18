@@ -1842,160 +1842,214 @@ information because of their traditional use with the reporting of
 international sporting events. Due to changes in geography and linguistic
 custom, some of the following may be incorrect or outdated. Corrections and
 extensions should be sent via e-mail to the PGN coordinator whose address
-listed near the start of this document.
+listed near the start of this document. Codes in parenthesis are old codes.
 
 AFG: Afghanistan
-AIR: Aboard aircraft
 ALB: Albania
 ALG: Algeria
 AND: Andorra
 ANG: Angola
-ANT: Antigua
+ANT: Antigua and Barbuda
 ARG: Argentina
 ARM: Armenia
-ATA: Antarctica
+ARU: Aruba
+ASA: American Samoa
 AUS: Australia
-AZB: Azerbaijan
+AUT: Austria, (OST)
+AZE: Azerbaijan, (AZB)
+BAH: Bahamas, (BHM)
 BAN: Bangladesh
-BAR: Bahrain
-BHM: Bahamas
+BAR: Barbados, (BRB)
+BDI: Burundi
 BEL: Belgium
+BEN: Benin
 BER: Bermuda
+BHU: Bhutan
 BIH: Bosnia and Herzegovina
-BLA: Belarus
-BLG: Bulgaria
-BLZ: Belize
+BIZ: Belize, (BLZ)
+BLR: Belarus, (BLA)
 BOL: Bolivia
-BRB: Barbados
-BRS: Brazil
+BOT: Botswana, (BSW)
+BRA: Brazil, (BRS)
+BRN: Bahrain, (BAR)
 BRU: Brunei
-BSW: Botswana
+BUL: Bulgaria, (BLG)
+BUR: Burkina Faso
+CAF: Central African Republic
+CAM: Cambodia
 CAN: Canada
+CAY: Cayman Islands
+CGO: Republic of the Congo
+CHA: Chad
 CHI: Chile
-COL: Columbia
-CRA: Costa Rica
+CHN: Peoples Republic of China, (PRC)
+CIV: Ivory Coast, (IVO)
+CMR: Cameroon
+COD: Democratic Republic of the Congo
+COK: Cook Islands
+COL: Colombia
+COM: Comoros
+CPV: Cape Verde
+CRC: Costa Rica, (CRA)
 CRO: Croatia
-CSR: Czechoslovakia
 CUB: Cuba
 CYP: Cyprus
+CZE: Czech Republic
 DEN: Denmark
+DJI: Djibouti
+DMA: Dominica
 DOM: Dominican Republic
 ECU: Ecuador
 EGY: Egypt
-ENG: England
+ERI: Eritrea
+ESA: El Salvador, (SAL)
 ESP: Spain
 EST: Estonia
-FAI: Faroe Islands
+ETH: Ethiopia
 FIJ: Fiji
 FIN: Finland
 FRA: France
-GAM: Gambia
-GCI: Guernsey-Jersey
+FSM: Federated States of Micronesia
+GAB: Gabon
+GAM: The Gambia
+GBR: Great Britain
+GBS: Guinea-Bissau
 GEO: Georgia
+GEQ: Equatorial Guinea
 GER: Germany
 GHA: Ghana
-GRC: Greece
+GRE: Greece, (GRC)
+GRN: Grenada
 GUA: Guatemala
+GUI: Guinea
+GUM: Guam
 GUY: Guyana
 HAI: Haiti
 HKG: Hong Kong
 HON: Honduras
 HUN: Hungary
+INA: Indonesia, (RIN)
 IND: India
+IRI: Iran, (IRN)
 IRL: Ireland
-IRN: Iran
 IRQ: Iraq
-ISD: Iceland
+ISL: Iceland, (ISD)
 ISR: Israel
+ISV: Virgin Islands
 ITA: Italy
-IVO: Ivory Coast
+IVB: British Virgin Islands, (VGB)
 JAM: Jamaica
-JAP: Japan
-JRD: Jordan
-JUG: Yugoslavia
+JOR: Jordan, (JRD)
+JPN: Japan, (JAP)
 KAZ: Kazakhstan
 KEN: Kenya
-KIR: Kyrgyzstan
+KGZ: Kyrgyzstan, (KIR)
+KIR: Kiribati
+KOR: South Korea
+KOS: Kosovo
+KSA: Saudi Arabia
 KUW: Kuwait
+LAO: Laos
 LAT: Latvia
-LEB: Lebanon
-LIB: Libya
-LIC: Liechtenstein
+LBA: Libya, (LIB)
+LBN: Lebanon, (LEB)
+LBR: Liberia
+LCA: Saint Lucia
+LES: Lesotho
+LIE: Liechtenstein, (LIC)
 LTU: Lithuania
 LUX: Luxembourg
-MAL: Malaysia
-MAU: Mauritania
+MAD: Madagascar
+MAR: Morocco, (MRC)
+MAS: Malaysia, (MAL)
+MAW: Malawi
+MDA: Moldova, (MOL)
+MDV: Maldives
 MEX: Mexico
+MGL: Mongolia, (MON)
+MHL: Marshall Islands
+MKD: North Macedonia
 MLI: Mali
 MLT: Malta
-MNC: Monaco
-MOL: Moldova
-MON: Mongolia
+MNE: Montenegro
+MON: Monaco, (MNC)
 MOZ: Mozambique
-MRC: Morocco
-MRT: Mauritius
-MYN: Myanmar
-NCG: Nicaragua
-NET: The Internet
-NIG: Nigeria
-NLA: Netherlands Antilles
-NLD: Netherlands
+MRI: Mauritius, (MRT)
+MTN: Mauritania, (MAU)
+MYA: Myanmar, (MYN)
+NAM: Namibia
+NCA: Nicaragua, (NCG)
+NED: Netherlands, (NLD)
+NEP: Nepal
+NGR: Nigeria, (NIG)
+NIG: Niger
 NOR: Norway
-NZD: New Zealand
-OST: Austria
+NRU: Nauru
+NZL: New Zealand, (NZD)
+OMA: Oman
 PAK: Pakistan
-PAL: Palestine
 PAN: Panama
 PAR: Paraguay
 PER: Peru
 PHI: Philippines
+PLE: Palestine, (PAL)
+PLW: Palau
 PNG: Papua New Guinea
 POL: Poland
 POR: Portugal
-PRC: People's Republic of China
-PRO: Puerto Rico
-QTR: Qatar
-RIN: Indonesia
-ROM: Romania
+PRK: North Korea
+PUR: Puerto Rico, (PRO)
+QAT: Qatar, (QTR)
+ROU: Romania, (ROM)
+RSA: South Africa, (SAF)
 RUS: Russia
-SAF: South Africa
-SAL: El Salvador
-SCO: Scotland
-SEA: At Sea
+RWA: Rwanda
+SAM: Samoa
 SEN: Senegal
 SEY: Seychelles
-SIP: Singapore
-SLV: Slovenia
-SMA: San Marino
-SPC: Aboard spacecraft
+SGP: Singapore, (SIP)
+SKN: Saint Kitts and Nevis
+SLE: Sierra Leone
+SLO: Slovenia, (SLV)
+SMR: San Marino, (SMA)
+SOL: Solomon Islands
+SOM: Somalia
+SRB: Serbia
 SRI: Sri Lanka
+SSD: South Sudan
+STP: São Tomé and Príncipe
 SUD: Sudan
-SUR: Surinam
-SVE: Sweden
-SWZ: Switzerland
+SUI: Switzerland, (SWZ)
+SUR: Suriname
+SVK: Slovakia
+SWE: Sweden, (SVE)
+SWZ: Eswatini
 SYR: Syria
-TAI: Thailand
-TMT: Turkmenistan
-TRK: Turkey
+TAN: Tanzania
+TGA: Tonga
+THA: Thailand, (TAI)
+TJK: Tajikistan
+TKM: Turkmenistan, (TMT)
+TLS: Timor-Leste
+TOG: Togo
+TPE: Republic of China
 TTO: Trinidad and Tobago
 TUN: Tunisia
+TUR: Turkey, (TRK)
+TUV: Tuvalu
 UAE: United Arab Emirates
 UGA: Uganda
 UKR: Ukraine
-UNK: Unknown
 URU: Uruguay
-USA: United States of America
+USA: United States
 UZB: Uzbekistan
+VAN: Vanuatu
 VEN: Venezuela
-VGB: British Virgin Islands
 VIE: Vietnam
-VUS: U.S. Virgin Islands
-WLS: Wales
+VIN: Saint Vincent and the Grenadines
 YEM: Yemen
-YUG: Yugoslavia
 ZAM: Zambia
 ZIM: Zimbabwe
-ZRE: Zaire
 
 
 16: Additional chess data standards
